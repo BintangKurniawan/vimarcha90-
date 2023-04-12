@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024562133036",
+    "project_id": "vimarcha-b9659",
+    "storage_bucket": "vimarcha-b9659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024562133036:android:ddebcf7ce437bd3237b989",
+        "android_client_info": {
+          "package_name": "com.example.vimarcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024562133036-utma7okdqduv8keem2ek1r02oai0h53q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rZ7d6iIBVq1hCnJs3L_sH-jL-UuIdjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024562133036-utma7okdqduv8keem2ek1r02oai0h53q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
